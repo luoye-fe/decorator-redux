@@ -4,7 +4,7 @@
 
 ## 安装
 
-`npm i @l848291024/decorator-redux`
+`npm i @luoyefe/decorator-redux`
 
 ## 使用
 
