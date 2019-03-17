@@ -1,6 +1,6 @@
 {
   "name": "@luoyefe/decorator-redux",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "use react-redux more easy use decorator",
   "main": "dist/index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "decorator"
   ],
   "author": "luoyefe",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/luoye-fe/decorator-redux/issues"
   },
