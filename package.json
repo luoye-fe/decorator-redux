@@ -1,0 +1,34 @@
+{
+  "name": "@l848291024/decorator-redux",
+  "version": "1.0.0",
+  "description": "use react-redux more easy use decorator",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoye-fe/decorator-redux.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "react-redux",
+    "decorator"
+  ],
+  "author": "luoyefe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luoye-fe/decorator-redux/issues"
+  },
+  "homepage": "https://github.com/luoye-fe/decorator-redux#readme",
+  "devDependencies": {
+    "@types/prop-types": "^15.7.0",
+    "@types/react": "^16.8.8",
+    "@types/react-redux": "^7.0.3",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.4",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1"
+  }
+}
