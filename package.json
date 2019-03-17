@@ -1,5 +1,5 @@
 {
-  "name": "@l848291024/decorator-redux",
+  "name": "@luoyefe/decorator-redux",
   "version": "1.0.0",
   "description": "use react-redux more easy use decorator",
   "main": "dist/index.js",
