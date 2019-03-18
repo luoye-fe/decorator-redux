@@ -19,7 +19,7 @@ function ChildStoreDecorator() {
             state: this.props.state,
             dispatch: this.context.dispatch.bind(this),
             originStore: this.context.originStore,
-          }} />
+          }} {...this.props} />
         );
       }
     }
