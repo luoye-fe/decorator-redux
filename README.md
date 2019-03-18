@@ -89,7 +89,7 @@ export default {
 import React, { PureComponent } from 'react';
 import ReactDOM from 'react-dom';
 
-import { RootStoreDecorator } from '@l848291024/decorator-redux';
+import { RootStoreDecorator } from '@luoyefe/decorator-redux';
 
 import store from './store/index';
 
@@ -120,7 +120,7 @@ ReactDOM.render(
 // child component
 import React, { PureComponent } from 'react';
 
-import { ChildStoreDecorator } from '@l848291024/decorator-redux';
+import { ChildStoreDecorator } from '@luoyefe/decorator-redux';
 
 @ChildStoreDecorator()
 class Children extends PureComponent {
