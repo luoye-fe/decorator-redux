@@ -13,7 +13,7 @@ function RootStoreDecorator({ store }: CommonObject) {
   return (OriginComponent: any) => {
     const StoreModules = new Module(store);
 
-    const reactReduxStore = createStore((...args) => {
+    const reactReduxStore = createStore((...args: any[]) => {
       // 处理所有真实 reducer 动作
       const action: ActionInterface = args[1];
 
